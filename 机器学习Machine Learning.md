@@ -8,5 +8,12 @@
 ### 一、模型选择
 
 ### 二、模型分类（模型选择的补充）
+#### （一）监督学习·Supervised Learning
 
+##### 1.分类·Classification
+    描述：j
+      
+##### 2.回归·Regression
+
+#### （二）无监督学习·Unsupervised Learning
 ### 
