@@ -5,8 +5,10 @@
   #### python(核心)
   学习笔记： 
   https://github.com/WuXinbo-bo/Dada_Analysis_Learning/blob/main/Python%20Learning%20Log(WXB).pdf  
-  
-	
+
+  参考资料：  
+  https://github.com/WuXinbo-bo/Dada_Analysis_Learning/blob/main/Python深度学习(2)：Python基础.pdf  
+  	
   #### 数据处理
   学习笔记：   
 	
