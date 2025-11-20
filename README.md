@@ -5,8 +5,8 @@
 	
 ## 大纲
   #### 计算机基础  
-  https://github.com/WuXinbo-bo/Data_Analysis_Learning_Bo/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.md
   ###### 计算机组成原理  
+  	https://github.com/WuXinbo-bo/Data_Analysis_Learning_Bo/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.md	
   ###### 操作系统
   ###### 计算机网络
   ###### 程序设计基础
